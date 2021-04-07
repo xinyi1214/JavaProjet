@@ -13,3 +13,5 @@ Données :
 La partie de code java :
 1. Dans le fichier TestJunit.java, il est nécessaire de remplacer les chemins du dossier data (ligne 36) et du fichier bibliotheque.xml(ligne 37) par votre chemins.
 2. Il est nécessaire de modifier les id dans les méthodes 'testUpdate()' et 'testDelete()'.
+
+Fait par Mei GAN, Xinyi SHEN
