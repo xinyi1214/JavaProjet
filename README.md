@@ -1,4 +1,4 @@
-# JavaProjet
+# Projet Java :Elastic Search
 
 Ce projet est pour l'objectif de proposer un exemple de programme java utilisant elastic search.
 
